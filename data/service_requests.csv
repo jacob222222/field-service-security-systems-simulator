@@ -1,1 +1,5 @@
-
+ticket_id,date_opened,site,issue,status,initial_review_done,assigned_engineer,date_closed
+1001,2024-05-01,Site A,Access card reader failure,Open,No,, 
+1002,2024-05-02,Site B,Camera not recording,Dispatched,Yes,Engineer A,2024-05-03
+1003,2024-05-03,Site C,Alarm panel battery low,Open,No,,
+1004,2024-05-04,Site D,Door forced alert,Dispatched,Yes,Engineer B,
