@@ -1,0 +1,20 @@
+Low Voltage Systems Configuration – Example Site
+
+Access Control:
+- Door Controllers: 4
+- Reader Type: Proximity + PIN
+- Controller Firmware: 2.1.0
+
+Camera System:
+- NVR Model: QCam 1600
+- Channels: 16
+- Storage: 2TB RAID 1
+
+Alarm Panel:
+- Zones: 8
+- Battery Backup: 12V, 7Ah
+- Communication: Cellular backup
+
+Network:
+- Switch: PoE 24-Port
+- VLAN Configured: Yes
