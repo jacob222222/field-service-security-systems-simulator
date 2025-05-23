@@ -2,7 +2,7 @@
 
 # Field Service Security Systems Simulator
 
-This project simulates a field service management system for security engineers and coordinators handling technical security system requests, field dispatch, and site documentation. It was inspired by real operational responsibilities in corporate and industrial security environments.
+This project simulates a real-world field service management system tailored for security engineers and service coordinators. It models the intake, triage, and dispatch of technical security system issues — including SLA tracking, field engineer guidance, audit documentation, and system commissioning. Inspired by real operational workflows in corporate, manufacturing, and industrial security environments, this simulation showcases my ability to design, maintain, and optimize complex physical security support systems.
 
 ## Goals
 
